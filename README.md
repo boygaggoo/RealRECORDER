@@ -18,7 +18,7 @@ Screenshots:
 Web Project
 ---------
 
-http://www.cloudsync.es
+http://www.designconcept.cloud
 
 
 Licencia
