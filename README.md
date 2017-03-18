@@ -20,6 +20,10 @@ Web Project
 
 http://www.dsignconcept.com
 
+## Contributors
+
+Jorge A Ariño V
+
 
 Licencia
 -------
