@@ -1,4 +1,4 @@
-Recorder
+RealRecorder
 =============
 
 <p>Now you can record your voice memos with this simple app implementing Material Design. With Android Studio.</p> 
